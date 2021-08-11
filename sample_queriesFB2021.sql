@@ -1,3 +1,9 @@
+/*
+A sampling of queries used for FB Data Challenge 2021 project 
+on analyzing a dataset of content added to Netflix in conjunction
+with a table of IMDB ratings.
+
+*/
 SELECT COUNT(*)
 FROM netflix_titles
 
